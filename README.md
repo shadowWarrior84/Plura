@@ -23,6 +23,3 @@
 - 🌙 Graphs and charts
 - ☀️ Light & Dark mode
 - 📄 Functioning landing page
-
-## Shadcn UI Theme creator
-[Link To Website](https://gradient.page/tools/shadcn-ui-theme-generator)
